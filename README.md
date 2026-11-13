@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Sridhar 👋
 
-<!--
-**sridhar-t23/sridhar-t23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate focused on full-stack web development, backend systems, and data workflows.
 
-Here are some ideas to get you started:
+- 🔭 **Currently building:** Full-stack web applications and backend APIs
+- 💻 **Tech Stack:** Java, PHP, JavaScript, HTML5/CSS3, MySQL, Python
+- 📜 Certifications & Experience
+- **Oracle Cloud Infrastructure (OCI) Foundations Associate** — Oracle
+- **Machine Learning Research Intern** — NIT Tiruchirappalli *(Medical Dataset Analysis & Data Workflows)*
+- 
+- 📫 **Reach me at:** srithardad001@gmail.com | LinkedIn(https://www.linkedin.com/in/t-sridhar-39014a387?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Technologies
+`Java` • `Python` • `JavaScript` • `PHP` • `MySQL` • `HTML5` • `CSS3` • `Git` • `Oracle Cloud`
